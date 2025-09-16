@@ -1,0 +1,3 @@
+[submodule "systolic-array-accelerator"]
+	path = systolic-array-accelerator
+	url = https://github.com/MardiniO/systolic-array-accelerator.git
